@@ -1,13 +1,13 @@
 {
     hello
 }
-\mylabel{
+\begin{
     world{}
     fixed_target_substring
     hello{}
 }
 fixed_target_substring
-\mylabel{
+\begin{
     fixed_target_substring
 }
 
