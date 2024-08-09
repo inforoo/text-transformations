@@ -1,0 +1,13 @@
+{
+    hello
+}
+\mylabel{
+    world{}
+    fixed_target_substring
+    hello{}
+}
+fixed_target_substring
+\mylabel{
+    fixed_target_substring
+}
+
