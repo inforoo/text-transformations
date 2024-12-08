@@ -1,0 +1,12 @@
+{
+    hello
+}
+\begin{
+    world{}
+    fixed_target_substring
+    hello{}
+}
+fixed_target_substring
+\begin{
+    fixed_target_substring
+}
